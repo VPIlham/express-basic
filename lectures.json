@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ilham",
+        "subject" : "Kalkulus",
+        "age" : 25,
+        "city" : "Depok"  
+    },
+    {
+        "id" : 2,
+        "name" : "Nur",
+        "subject" : "Sejarah",
+        "age" : 22,
+        "city" : "Bogor"  
+    },
+    {
+        "id" : 3,
+        "name" : "Hakim",
+        "subject" : "Algoritma",
+        "age" : 23,
+        "city" : "Bogor"  
+    }
+]
